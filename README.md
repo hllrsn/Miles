@@ -1,6 +1,6 @@
 # Mile$
 
-A logging app for drivers
+A logging app for drivers.
 
 One of our team used to be a delivery driver, and one of the biggest challenges he came across was finding a good free and intuitive mileage tracking app. This project is designed to solve that problem. **Mile$** is a simple and easy to use application that will help you log your miles and earnings and do some math to help you figure out how much you're making an hour.
 
@@ -29,3 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [This passport tutorial](https://github.com/lyndachiwetelu/using-passport-with-sequelize-and-mysql)
+
+## Link
+
+* https://milesdriver-project2.herokuapp.com/
